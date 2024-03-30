@@ -1,7 +1,6 @@
 # NewTest1
 by **Santiago Gomez**
 
-First reposotory
+First repository
 
-asddd
 2024
